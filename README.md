@@ -61,7 +61,6 @@ Exercises, tests, and adventures
 │   ├── data
 │   │   ├── sample_submission.csv
 │   │   ├── test_features.csv
-│   │   ├── train_features2.csv
 │   │   ├── train_features.csv
 │   │   ├── train_targets_nonscored.csv
 │   │   └── train_targets_scored.csv
