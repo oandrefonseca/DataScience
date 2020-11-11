@@ -3,6 +3,7 @@ Exercises, tests, and adventures
 
 ## Repository structure
 
+```
 ./
 ├── Calendário de Entregas.xlsx
 ├── exercises
@@ -70,3 +71,4 @@ Exercises, tests, and adventures
 └── README.md
 
 13 directories, 51 files
+```
