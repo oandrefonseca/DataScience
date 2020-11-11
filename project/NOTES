@@ -1,0 +1,31 @@
+
+- EDA
+
+https://www.kaggle.com/headsortails/explorations-of-action-moa-eda
+https://www.kaggle.com/isaienkov/mechanisms-of-action-moa-prediction-eda
+https://www.kaggle.com/amiiiney/drugs-classification-mechanisms-of-action
+https://www.kaggle.com/nareshbhat/moa-statistical-analysis-and-eda-part1
+https://www.kaggle.com/ash1706/exploring-moa-eda-pca-xgboost-improved
+
+### Is it really a multi-label problem?
+
+--- Explanation: Difference between multi-class classification & multi-label classification is that in multi-class problems the classes are mutually exclusive, whereas for multi-label problems each label represents a different classification task, but the tasks are somehow related.
+ 
+### All treatments activated multiples MoAs?
+R: Praticamente todos os tratamentos atuam apenas sobre uma via metabolica (MoA).
+
+### Is there a MoAs that occur more frequently?
+R: Existe a predominancia de ensaios com drogas que atuam sobre um pequeno grupo de vias metabolicas. Em particular NFKB.
+
+
+### Are the mechanism equally distribute?
+### 
+
+
+## Using NFKB as exploratory case
+### Which variables are more affected by treatment duration?
+
+### Gene correlation
+Defining a threshold to remove genes
+
+### Does PCA efficiently separate the clinical features? 
