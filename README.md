@@ -79,7 +79,7 @@ Exercises, tests, and adventures
 │   │   └── train_targets_scored.csv
 │   ├── lish-moa.zip
 │   ├── MoA_-_EDA.ipynb
-│   ├── MoA_-_Part_II.ipynb
+│   ├── MoA_-_Modeling_Part_I.ipynb
 │   └── NOTES
 └── README.md
 
