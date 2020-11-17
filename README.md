@@ -4,7 +4,7 @@ Exercises, tests, and adventures
 ## Repository structure
 
 ```
-./
+.
 ├── Calendário de Entregas.xlsx
 ├── exercises
 │   ├── br_classification_project
@@ -49,6 +49,17 @@ Exercises, tests, and adventures
 │   │   ├── README.md
 │   │   └── titanic.csv
 │   ├── ipca_exercise.ipynb
+│   ├── mercado_livre_app
+│   │   ├── app.py
+│   │   ├── modelo.pkl
+│   │   ├── Procfile
+│   │   ├── README.md
+│   │   ├── requirements.txt
+│   │   ├── static
+│   │   │   └── css
+│   │   │       └── style.css
+│   │   └── templates
+│   │       └── index.html
 │   └── visualizacao_exploratoria_exercicios
 │       ├── 01-exercicios-matplotlib
 │       │   ├── ufc.csv
@@ -59,6 +70,8 @@ Exercises, tests, and adventures
 │       └── README.md
 ├── project
 │   ├── data
+│   │   ├── models
+│   │   │   └── README
 │   │   ├── sample_submission.csv
 │   │   ├── test_features.csv
 │   │   ├── train_features.csv
@@ -66,8 +79,9 @@ Exercises, tests, and adventures
 │   │   └── train_targets_scored.csv
 │   ├── lish-moa.zip
 │   ├── MoA_latest.ipynb
+│   ├── MoA_-_Part_II.ipynb
 │   └── NOTES
 └── README.md
 
-13 directories, 51 files
+18 directories, 59 files
 ```
